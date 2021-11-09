@@ -11,3 +11,5 @@ CREATE TABLE contacts(
 );
 
 Depois de seguir esse passos basta colar a pasta do projeto em "C:\xampp\htdocs" e acessar o projeto via "http://localhost/agenda/index.php"
+
+O projeto conta com metodo binParam para garantir mais segurança ao usuario, mensagem informando quando um contato foi inserido, modificado ou deletado. interação de paginas e templates pre definidos.
